@@ -12,3 +12,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     font-style: oblique;
 }
+
+footer {
+    font-size: x-small;
+}
